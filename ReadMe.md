@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎓Sobre Mim:
 Estudante/Dev full-stack apaixonado por tecnologia. Sou formado em Sistemas de Informação e estou sempre em busca de novos conhecimentos e desafios. Minha paixão pela tecnologia começou cedo, e desde então tenho explorado diversas áreas do desenvolvimento de software. 
 
 
