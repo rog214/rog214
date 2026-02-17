@@ -1,6 +1,7 @@
 # 👨🏻‍💻 Sobre Mim:
-Estudante/Dev full-stack apaixonado por tecnologia. Sou formado em Sistemas de Informação e estou sempre em busca de novos conhecimentos e desafios. Minha paixão pela tecnologia começou cedo, e desde então tenho explorado diversas áreas do desenvolvimento de software. 
+(Eterno) Estudante e Desenvolvedor Full Stack apaixonado por tecnologia. Sou formado em Sistemas de Informação e estou sempre em busca de novos conhecimentos e desafios. Minha trajetória com tecnologia começou cedo, e desde então tenho explorado diversas áreas do desenvolvimento de software.
 
+No momento, atuo como Desenvolvedor Full Stack em uma grande empresa brasileira, aplicando conhecimentos em **C#**, **.NET** e **Angular** para criar soluções eficientes e escaláveis. Busco oportunidades onde possa continuar evoluindo tecnicamente, contribuindo com a modernização de sistemas e com a aplicação de boas práticas de engenharia de software.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rog214) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roger_fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rog214) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rogf214) 
